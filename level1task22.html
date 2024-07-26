@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Button Color Changer</title>
+  <style>
+    .button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body style="background-color: pink;">
+<p>Let's see the colour differences in this pic while clicking the button. 
+    <h5>
+        <center>
+ <button id="colorButton" class="button"><img src="https://i.pinimg.com/originals/9e/1b/31/9e1b3192c8c278e5b428c030cd419a26.jpg" height="400" width="550"></button>
+ <br>
+ <h1>Thank you!</h1>
+ </center>
+  </h5>
+
+  <script>
+    const button = document.getElementById('colorButton');
+
+    button.addEventListener('click', function() {
+      const randomColor = getRandomColor();
+      button.style.backgroundColor = randomColor;
+    });
+
+    function getRandomColor() {
+      const letters = '0123456789ABCDEF';
+      let color = '#';
+      for (let i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+      }
+      return color;
+    }
+  </script>
+</body>
+</html>
