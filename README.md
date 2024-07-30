@@ -23,18 +23,19 @@ View the webpage :
 
 **FEATURES**
 
-Access videos, and image that explain complex space phenomena in an easy-to-understand format.
+
 We have also provided links to explore more.
-Learn about black holes, dark matter, space weather, and the science of space travel.
+Learn about new features and arrivals of best books.
+Subscribe to more  and more ................
 
 
 
 **ADDITIONAL**
 
  Informatiom about
-  + Galaxies
-  + Common ways to find a planet
+  + New Arrivals
+  + Common ways to find a best books
 
-Do Explore all the other pages provided in our website.
+Do Explore all the other pages provided in our websites.
 
-“Explore our site’s universe—each page reveals a new frontier of space discovery!”
+“Explore our site’s universe—each page reveals a new frontier of digital library discovery!”
