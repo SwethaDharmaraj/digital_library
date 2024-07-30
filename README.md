@@ -13,7 +13,7 @@ Cost-Effectiveness: Reduces the need for physical storage and maintenance.
 
 View the webpage :
 
-![lib.php](output1.jpg)
+![lib.php](murugar\frontgit.png)
 
 
 ![kib.php](output2.jpg)
