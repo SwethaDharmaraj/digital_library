@@ -1,5 +1,5 @@
 # website_into_the_Digital_Library
-About : A webpage using HTML,CSS and Bootstrap.
+About : A webpage using HTML,CSS.
 
  This project is dedicated to providing our best to learners. 
  Below is a detailed overview of the content and features available on our website.
