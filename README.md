@@ -1,7 +1,7 @@
 # website_into_the_Digital_Library
 About : A webpage using HTML,CSS.
 
- This project is dedicated to providing our best to learners. 
+This project is dedicated to providing our best to learners. 
  Below is a detailed overview of the content and features available on our website.
 
 # Overview
@@ -33,8 +33,14 @@ Subscribe to more  and more ................
 
  Informatiom about
   + New Arrivals
-  + Common ways to find a best books
+  + Common ways to find the best books
 
 Do Explore all the other pages provided in our websites.
 
 “Explore our site’s universe—each page reveals a new frontier of digital library discovery!”
+
+Steps to follow :
+1.Clone our repository
+2. Navigate to the project directory
+3.View the code in any Text Editor
+4.Open mainpage2.1.html
